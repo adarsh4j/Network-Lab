@@ -5,7 +5,6 @@
 #include<stdlib.h>
 #include <unistd.h>
 int main()
-
 {
 	char buf[100];
 	int k;
